@@ -27,3 +27,18 @@ import re
 #
 # except Exception as e:
 #     print(e)
+
+# task 3
+
+# try:
+#
+#     email_user = input("Enter e-mail address: ")
+#
+#     if re.match(r'^[a-zA-Z0-9_.+-]{6,30}@gmail\.com$', email_user):
+#         print("E-mail address is valid.")
+#     else:
+#         print("E-mail address is invalid!")
+#
+# except Exception as e:
+#     print(e)
+
