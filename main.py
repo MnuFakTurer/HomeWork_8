@@ -42,3 +42,17 @@ import re
 # except Exception as e:
 #     print(e)
 
+# task 4
+
+# try:
+#
+#     username = input("Enter username: ")
+#
+#     if re.match(r'^[a-zA-Z]{2,20}\s[a-zA-Z]{2,20}\s[a-zA-Z]{2,20}$', username):
+#         print("Username is valid.")
+#     else:
+#         print("Username is invalid!")
+#
+# except Exception as e:
+#     print(e)
+
